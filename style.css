@@ -1,0 +1,8 @@
+body { font-family: sans-serif; max-width:600px; margin:20px auto; }
+#posts li { border-bottom:1px solid #ccc; padding:10px 0; }
+body {
+  max-width: 600px;
+}
+textarea {
+  resize: vertical;
+}
