@@ -1,5 +1,5 @@
 // dashboard.js
-const API = 'https://jwt-dan-cors.vercel.app';
+const API = 'https://jwt-dan-cors.vercel.app/';
 const token = localStorage.getItem('token');
 if (!token) window.location.replace('index.html');
 
