@@ -1,5 +1,5 @@
 // login.js
-const API = 'https://jwt-dan-cors.vercel.app';
+const API = 'https://jwt-dan-cors.vercel.app/api';
 
 document.addEventListener('DOMContentLoaded', () => {
   console.log('🚀 DOMContentLoaded fired');

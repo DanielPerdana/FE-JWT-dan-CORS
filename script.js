@@ -1,4 +1,4 @@
-const API = 'https://jwt-dan-cors.vercel.app';
+const API = 'https://jwt-dan-cors.vercel.app/api';
 let token = '';
 
 async function signup() {

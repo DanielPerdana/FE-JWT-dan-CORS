@@ -1,4 +1,4 @@
-const API = 'https://jwt-dan-cors.vercel.app';
+const API = 'https://jwt-dan-cors.vercel.app/api';
 
 document.getElementById("signupForm").addEventListener("submit", async (e) => {
   e.preventDefault();
